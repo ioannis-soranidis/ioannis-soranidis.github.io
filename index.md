@@ -11,7 +11,7 @@ I am a theoretical physicist trying to understand the deep connection between qu
   ["Thermodynamics of regular black holes in anti-de Sitter space"](https://arxiv.org/abs/2505.11623)  
 - 🏆 **Honorable Mention**, Gravity Research Foundation Essay Competition (2025)  
   ["Exotic Encounters: Buchdahl’s Conditions and Physical Black Holes"](https://arxiv.org/abs/2505.09189)  
----
+
 
 🧾 [View my full CV](./cv/)  
 📚 [See my publications](./publications/)  
