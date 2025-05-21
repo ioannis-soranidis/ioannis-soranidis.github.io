@@ -7,12 +7,10 @@ I am a theoretical physicist trying to understand the deep connection between qu
 
 ### 📰 Recent Highlights
 
-- 🏆 **Honorable Mention**, Gravity Research Foundation Essay (2025)  
-  ["Exotic Encounters: Buchdahl’s Conditions and Physical Black Holes"](https://arxiv.org/abs/2505.09189)  
 - 📄 **New preprint**:  
   ["Thermodynamics of regular black holes in AdS"](https://arxiv.org/abs/2505.11623)  
-- ✏️ Research on light rings, birefringence, and black hole perturbations published in *PRD 110*, *PRD 111*
-
+- 🏆 **Honorable Mention**, Gravity Research Foundation Essay Competition (2025)  
+  ["Exotic Encounters: Buchdahl’s Conditions and Physical Black Holes"](https://arxiv.org/abs/2505.09189)  
 ---
 
 🧾 [View my full CV](./cv/)  
