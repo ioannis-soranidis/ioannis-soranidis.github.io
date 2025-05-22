@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.author_profile %}
+  {% include author-profile.html %}
+{% endif %}
+
+{{ content }}
