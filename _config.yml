@@ -21,7 +21,7 @@ repository               : "ioannis-soranidis/ioannis-soranidis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Ioannis_Soranidis_Photo.jpg"
+  avatar           : "/Ioannis_Soranidis_Photo.jpg"
   name             : "Ioannis Soranidis"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Sydney, Australia"
