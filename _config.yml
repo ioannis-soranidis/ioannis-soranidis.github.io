@@ -14,7 +14,6 @@ title_separator          : "-"
 name                     : &name "Ioannis Soranidis"
 description              : &description "Theoretical physicist | Black hole thermodynamics, regular black holes, semiclassical gravity"
 url                      : https://ioannis-soranidis.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ioannis-soranidis/ioannis-soranidis.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +21,7 @@ repository               : "ioannis-soranidis/ioannis-soranidis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Ioannis_Soranidis_Photo.jpg"
+  avatar           : "/images/Ioannis_Soranidis_Photo.jpg"
   name             : "Ioannis Soranidis"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Sydney, Australia"
@@ -30,8 +29,8 @@ author:
   email            : "ioannis.soranidis@mq.edu.au" 
 
   # Academic websites
-  InspireHEP       : https://inspirehep.net/authors/1853397
-  arXiv            : http://arxiv.org/a/soranidis_i_1
+  inspirehep       : https://inspirehep.net/authors/1853397
+  arxiv            : http://arxiv.org/a/soranidis_i_1
   orcid            : https://orcid.org/0000-0002-8652-9874
   researchgate     : https://www.researchgate.net/profile/Ioannis-Soranidis
 
