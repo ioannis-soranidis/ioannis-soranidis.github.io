@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematical and Physical Sciences, Macquarie University, 2025 (expected)
+* M.Sc in Nuclear and Elementary Particles Physics, National and Kapodistrian University of Athens, 2021
+* B.Sc in Physics, National and Kapodistrian University of Athens, 2017
 
 Work experience
 ======
