@@ -7,6 +7,7 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
+@import "minimal-mistakes"; // loads the default theme styles
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -41,3 +42,24 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* === Custom overrides === */
+
+/* Widen the main content area */
+.wrap {
+  max-width: 1100px;  /* wider than the default ~800px */
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Add breathing space inside text blocks */
+.page__content {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* Optional: increase line spacing for easier reading */
+.page__content p {
+  line-height: 1.7;
+}
