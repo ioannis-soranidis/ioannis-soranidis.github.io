@@ -24,11 +24,14 @@ author:
   avatar           : "/Ioannis_Soranidis_Photo.jpg"
   name             : "Ioannis Soranidis"
   bio              : "I am a theoretical physicist trying to understand the deep connection between quantum physics and gravity. With a background in general relativity and quantum field theory, my research focuses on uncovering the true nature of black holes. I am especially interested in how singularities might be resolved and how these fundamental questions manifest through black hole thermodynamics and potential observational signatures."
-  location         : "Sydney, Australia"
   employer         : "Macquarie University"
+  location         : "Sydney, Australia"
   email            : "ioannis.soranidis@mq.edu.au" 
 
   # Academic websites
+   - label: "InspireHEP"
+      icon: "ai ai-inspire"
+      url: "https://inspirehep.net/authors/1853397"
   inspirehep       : https://inspirehep.net/authors/1853397
   arxiv            : http://arxiv.org/a/soranidis_i_1
   orcid            : https://orcid.org/0000-0002-8652-9874
@@ -39,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  #github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : https://www.linkedin.com/in/ioannis-soranidis
+  linkedin         : ioannis-soranidis/
 
 
 # Publication Category - The following the list of publication categories and their headings
