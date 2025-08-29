@@ -28,14 +28,20 @@ author:
   location         : "Sydney, Australia"
   email            : "ioannis.soranidis@mq.edu.au" 
 
-  # Academic websites
-   - label: "InspireHEP"
+# Academic websites (use the links array with Academicons)
+  links:
+    - label: "InspireHEP"
       icon: "ai ai-inspire"
       url: "https://inspirehep.net/authors/1853397"
-  inspirehep       : https://inspirehep.net/authors/1853397
-  arxiv            : http://arxiv.org/a/soranidis_i_1
-  orcid            : https://orcid.org/0000-0002-8652-9874
-  researchgate     : https://www.researchgate.net/profile/Ioannis-Soranidis
+    - label: "arXiv"
+      icon: "ai ai-arxiv"
+      url: "http://arxiv.org/a/soranidis_i_1"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-8652-9874"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Ioannis-Soranidis"
 
 
   # Repositories and software development
